@@ -8,7 +8,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=JUNOSAPOLLO+%2F%2F+NETWORK+NODE+ONLINE;BUILDING+TOOLS+FOR+THE+OPEN+WEB;PYTHON+%E2%80%A2+KOTLIN+%E2%80%A2+MACHINE+LEARNING;QUESTION+THE+SIGNAL.+VERIFY+THE+SOURCE." alt="Typing SVG" />
 
-# `MANASH // JUNOSAPOLLO`
+# `JUNOSAPOLLO`
 
 **software engineer · machine-learning · open-source**
 
