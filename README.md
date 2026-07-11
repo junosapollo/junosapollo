@@ -10,7 +10,7 @@
 
 # `MANASH // JUNOSAPOLLO`
 
-**software engineer · machine-learning explorer · open-source operator**
+**software engineer · machine-learning · open-source**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=junosapollo&label=network%20pings&color=00b8d4&style=flat-square)](https://github.com/junosapollo)
 [![GitHub followers](https://img.shields.io/github/followers/junosapollo?label=followers&style=flat-square&color=7c4dff)](https://github.com/junosapollo?tab=followers)
