@@ -6,8 +6,8 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=JUNOSAPOLLO+%2F%2F+NETWORK+NODE+ONLINE;BUILDING+TOOLS+FOR+THE+OPEN+WEB;PYTHON+%E2%80%A2+KOTLIN+%E2%80%A2+MACHINE+LEARNING;QUESTION+THE+SIGNAL.+VERIFY+THE+SOURCE." alt="Typing SVG" />
-
+<!--<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=JUNOSAPOLLO+%2F%2F+NETWORK+NODE+ONLINE;BUILDING+TOOLS+FOR+THE+OPEN+WEB;PYTHON+%E2%80%A2+KOTLIN+%E2%80%A2+MACHINE+LEARNING;QUESTION+THE+SIGNAL.+VERIFY+THE+SOURCE." alt="Typing SVG" />
+-->
 # `JUNOSAPOLLO`
 
 **software engineer · machine-learning · open-source**
@@ -20,73 +20,18 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  SHELL ACCESS: GRANTED                                       │
-│  IDENTITY:     junosapollo                                   │
-│  STATUS:       building / learning / observing               │
-│  DIRECTIVE:    turn noisy data into useful systems           │
+│                                                              │
+│   manash@github                                              │
+│   ─────────────────────────────────────────────────────────  │
+│  location            guwahati, assam                         │
+│  languages           java · python · kotlin · js/ts          │
+│  frameworks/tools    android sdk · flask · fastapi           │
+│                      scikit-learn · spring boot · react      │
+│                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-## `01 // OPERATOR PROFILE`
-
-I build practical software at the intersection of **automation**, **machine learning**, and **human curiosity**.
-
-My work tends to orbit around:
-
-- tools that remove repetitive friction;
-- systems that extract signal from messy data;
-- experiments that connect software, perception, and truth;
-- interfaces that feel precise, fast, and slightly futuristic.
-
-> The network is full of information. The hard part is deciding what deserves to become knowledge.
-
-## `02 // ACTIVE NODES`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [`comix-downloader`](https://github.com/Yui007/comix-downloader)
-
-A fast manga downloader for `comix.to`, with both GUI and CLI workflows.
-
-`Python` · concurrent downloads · PDF/CBZ export
-
-</td>
-<td width="50%" valign="top">
-
-### [`onyx`](https://github.com/junosapollo/onyx)
-
-A Kotlin project under active development.
-
-`Kotlin` · architecture · experimentation
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [`deep-lesion`](https://github.com/junosapollo/deep-lesion)
-
-An exploration of deep-learning workflows and visual interfaces.
-
-`HTML` · deep learning · research
-
-</td>
-<td width="50%" valign="top">
-
-### [`truthseeker-ML`](https://github.com/junosapollo/truthseeker-ML)
-
-Machine-learning experiments focused on separating signal from noise.
-
-`Python` · ML · classification
-
-</td>
-</tr>
-</table>
-
-## `03 // TECH MATRIX`
+## `03 // TECH STACK`
 
 <div align="center">
 
@@ -97,49 +42,7 @@ Machine-learning experiments focused on separating signal from noise.
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=ffffff)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00e5ff)
 
-</div>
-
-```python
-class JunosApollo:
-    focus = [
-        "developer tooling",
-        "machine learning",
-        "automation",
-        "open-source software",
-    ]
-
-    operating_mode = "learn -> build -> test -> refine"
-
-    def current_mission(self) -> str:
-        return "Create software that turns complexity into clarity."
-```
-
-## `04 // TELEMETRY`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=junosapollo&show_icons=true&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=C9D1D9&icon_color=7C4DFF&rank_icon=github" alt="JunosApollo GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junosapollo&layout=compact&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=C9D1D9" alt="Most used languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=junosapollo&bg_color=00000000&color=00E5FF&line=7C4DFF&point=00C853&area=true&hide_border=true" alt="Contribution graph" />
-
-</div>
-
-## `05 // PRINCIPLES`
-
-```text
-[01] Build for humans, not metrics.
-[02] Prefer clear systems over clever systems.
-[03] Treat every model as an approximation.
-[04] Verify the source before trusting the signal.
-[05] Leave the codebase better than you found it.
-```
-
-## `06 // OPEN CHANNEL`
+## `06 // OPEN CHANNELS`
 
 <div align="center">
 
@@ -147,19 +50,20 @@ class JunosApollo:
 
 [![GitHub](https://img.shields.io/badge/GitHub-junosapollo-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/junosapollo)
 <!-- Replace the placeholders below with your real links, then remove this comment. -->
+<!--
 [![Email](https://img.shields.io/badge/Email-contact-0d1117?style=for-the-badge&logo=gmail&logoColor=7c4dff)](mailto:YOUR_EMAIL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00c853)](YOUR_LINKEDIN_URL)
-
+-->
 </div>
 
 <br>
 
 <div align="center">
-
+<!--
 ```text
 CONNECTION STABLE  //  AWAITING NEXT DIRECTIVE
 ```
-
-<sub>“The future is already connected. Understanding it is the real work.”</sub>
+-->
+<sub>“LET IT RIP”</sub>
 
 </div>
