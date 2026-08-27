@@ -4,11 +4,11 @@
   Replace the contact placeholders near the bottom with your real links.
 -->
 
-<div align="center">
+<div align="left">
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=JUNOSAPOLLO+%2F%2F+NETWORK+NODE+ONLINE;BUILDING+TOOLS+FOR+THE+OPEN+WEB;PYTHON+%E2%80%A2+KOTLIN+%E2%80%A2+MACHINE+LEARNING;QUESTION+THE+SIGNAL.+VERIFY+THE+SOURCE." alt="Typing SVG" />
 -->
-# `JUNOSAPOLLO`
+# `JUNOSAPOLLO/MANASH.md`
 
 **software engineer · machine-learning · open-source**
 
@@ -36,6 +36,7 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00e5ff)
+![Java](https://img.shields.io/badge/Java)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7c4dff)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=ff6d00)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00c853)
