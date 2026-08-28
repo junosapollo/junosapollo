@@ -21,10 +21,10 @@
 ```text
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
-│   manash@github                                          │
-│   ───────────────────────────────────────────────────────│
-│  OS                  Arch Linux x86_64                   │
-│  Kernel              Linux 7.0.10-arch1-1                │
+│  manash@github                                           │
+│  ─────────────────────────────────────────────────────   │
+│  os                  Arch Linux x86_64                   │
+│  kernel              Linux 7.0.10-arch1-1                │
 │  location            guwahati, assam                     │
 │  languages           java · python · kotlin · js/ts      │
 │  frameworks/tools    android sdk · flask · fastapi       │
